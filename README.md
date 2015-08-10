@@ -1,7 +1,7 @@
 # GCxGC property estimation algorithm
 This algorithm estimates environmentally relevant partitioning properties of nonpolar compounds based 
 on their GCxGC retention times, using the method of 
-<a href="http://pubs.acs.org/doi/abs/10.1021/es501674p">Nabi et al., 2014</a>, which is an updated and user-friendly version of the previous work by <a href="http://pubs.acs.org/doi/abs/10.1021/ac051051n">Arey et al. 2005</a>.
+<a href="http://pubs.acs.org/doi/abs/10.1021/es501674p">Nabi et al., 2014</a>, which is an updated and user-friendly version of the previous work by <a href="http://pubs.acs.org/doi/abs/10.1021/ac051051n">Arey et al., 2005</a>.
 The algorithm is programmed in Matlab.
 <br><br>To obtain the program, 
 <a href="https://github.com/jsarey/GCxGC-property-estimation/releases/latest">download 
