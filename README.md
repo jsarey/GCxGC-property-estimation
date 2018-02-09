@@ -12,6 +12,9 @@ for users</a>.
 <br><br>Please cite the following article when publishing any results obtained by use of this software:
 <br>Nabi, D., Gros, J., Dimitriou-Christidis, P., Arey, J. S., "Mapping environmental partitioning 
 properties of nonpolar complex mixtures by use of GCxGC", Environ. Sci. Technol. 2014, vol 48, p 6814-6826.
+<br> Arey, J. S., Nelson, R. K., Xu, L., Reddy, C. M., "Using comprehensive two-dimensional
+ gas chromatography retention indices to estimate environmental partitioning properties
+for a complete set of diesel fuel hydrocarbons", Anal. Chem. 2005, vol 77, p 7172-7182.
 <br><br>Author contacts:
 <br>J. Samuel Arey, arey@alum.mit.edu
 <br>Deedar Nabi, deedarnabi@gmail.com
